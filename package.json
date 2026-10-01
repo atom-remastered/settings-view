@@ -30,7 +30,7 @@
     "semver": "^7.8.5",
     "underscore-plus": "^1.7.0"
   },
-  "repository": "https://github.com/atom/settings-view",
+  "repository": "https://github.com/coltonsr77/settings-view",
   "engines": {
     "atom": "*"
   },
